@@ -1,0 +1,22 @@
+---
+StudentDetails : 
+  - name : bharat
+    phno : 87389700982
+    email : bharath@gmail
+    address: 
+      - dno: 99
+      - sreet": xyz
+        
+  - name: lucky
+    phno: 9899999999
+    email: lucky@gmail
+    address:
+     - dno: 99
+     - sreet": xyz
+
+  - name : navya
+    phno: 2873647823
+    email: navya@gmail
+    address :
+      - dno: 99
+      - sreet": xyz
