@@ -9,7 +9,5 @@
   - name: i want to install tree
     apt:
       name: tree
-      state: present
-
-  - name:     
+      state: present     
       
